@@ -1,0 +1,26 @@
+ASSIGNMENT 5
+
+STUDENT
+Ali Al-Musawi
+
+TOTAL POINTS
+93 / 100 pts
+
+QUESTION 1
+20 / 20 pts
+
+QUESTION 2
+20 / 20 pts
+
+QUESTION 3
+20 / 20 pts
+
+QUESTION 4
+20 / 20 pts
+
+QUESTION 5
+13 / 20 pts
+− 5 pts
+use strong induction/assume Pk=T for 2<=k<=n
+− 2 pts
+not concluded correctly
